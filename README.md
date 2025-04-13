@@ -1,6 +1,6 @@
 # Tiny Automations
 
-A growing collection of small, focused automations for foundersthat reduce noise and free up space for genuine connection and the important things in life.
+A growing collection of small, focused automations that reduce noise and free up space for genuine connection and the important things in life.
 
 ## ✨ Current Automations
 
