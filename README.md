@@ -67,7 +67,7 @@ This automation uses AppleScript to interact with Apple Mail and OpenAI (GPT-4o-
     - 🟩 interesting
     - 🟦 fyi
     - 🟪 idk
-    - ⬛️ delete
+    - 🗑️ delete
 
     If you skip this step, the script will still assign the correct color — just without the friendly labels.
 
