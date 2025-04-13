@@ -58,16 +58,18 @@ This automation uses AppleScript to interact with Apple Mail and OpenAI (GPT-4o-
     USER_BIO = "I’m a founder juggling multiple businesses. I prefer short actionable emails, and prioritize anything urgent, time-sensitive, or from existing clients."
     ```
 
-6.  **(Optional but Recommended) Rename Mail Flags:**
-    - In Apple Mail, go to `Preferences` > `Flags`.
-    - Rename your flag names to match the classifications used in the script for clarity:
-      - Red -> `alert`
-      - Orange -> `respond`
-      - Green -> `interesting`
-      - Blue -> `fyi`
-      - Purple -> `idk`
-      - Gray -> `delete`
-    - If you don't rename them, the script will still apply the correct _color_, but the flag name in Mail will remain the default (e.g., "Red").
+6.  **(Optional) Rename Mail Flags:**
+
+    In Apple Mail, go to Preferences > Flags and rename colors to match:
+
+    - 🟥 alert
+    - 🟧 respond
+    - 🟩 interesting
+    - 🟦 fyi
+    - 🟪 idk
+    - ⬛️ delete
+
+    If you skip this step, the script will still assign the correct color — just without the friendly labels.
 
 **Usage:**
 
